@@ -1,0 +1,17 @@
+{
+  "name": "email-node",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "email"
+  ],
+  "author": "qinguolei",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^2.6.4"
+  }
+}
